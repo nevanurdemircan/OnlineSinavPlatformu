@@ -1,0 +1,33 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(«“·Î8È§¾Ú1
+G	java:S106"+Replace this use of System.out by a logger.(›äß¨8È§¾Ú1
+G	java:S106"+Replace this use of System.out by a logger.(µ…™î8È§¾Ú1
+L	java:S106"+Replace this use of System.out by a logger.(ï¡¾ˆûÿÿÿÿ8È§¾Ú1
+L	java:S106"+Replace this use of System.out by a logger.(Ã­Ò¨şÿÿÿÿ8È§¾Ú1
+G	java:S106"+Replace this use of System.out by a logger.(¡ Ñ¡8È§¾Ú1
+G	java:S106"+Replace this use of System.out by a logger.(×Õ «8É§¾Ú1
+F	java:S106!"+Replace this use of System.out by a logger.(»×å8É§¾Ú1
+g
+java:S1854+"ERemove this useless assignment to local variable "durationInMinutes".(êãÚªûÿÿÿÿ8É§¾Ú1
+Z
+java:S1854)"8Remove this useless assignment to local variable "date".(€–§Öúÿÿÿÿ8É§¾Ú1
+V
+java:S1854'"9Remove this useless assignment to local variable "title".(ÚÆšé8É§¾Ú1
+G	java:S106&"+Replace this use of System.out by a logger.(ÙıõÃ8É§¾Ú1
+G
+java:S1481'"*Remove this unused "title" local variable.(ÚÆšé8É§¾Ú1
+L	java:S106("+Replace this use of System.out by a logger.(™ÇåÃûÿÿÿÿ8É§¾Ú1
+K
+java:S1481)")Remove this unused "date" local variable.(€–§Öúÿÿÿÿ8É§¾Ú1
+G	java:S106*"+Replace this use of System.out by a logger.(ï¼ÔÎ8Ê§¾Ú1
+X
+java:S1481+"6Remove this unused "durationInMinutes" local variable.(êãÚªûÿÿÿÿ8Ê§¾Ú1
+G	java:S106-"+Replace this use of System.out by a logger.(‡¢äô8Ê§¾Ú1
+L	java:S1060"+Replace this use of System.out by a logger.(¬Óéÿÿÿÿÿ8Ê§¾Ú1
+G	java:S1062"+Replace this use of System.out by a logger.(ÉÒ„8Ê§¾Ú1
+F	java:S1066"+Replace this use of System.out by a logger.(«òØ/8Ê§¾Ú1
+I
+java:S1068"'Remove this unused "log" private field.(ì´†ùÿÿÿÿ8ò®­¾Ú1
+L
+java:S1068
+"/Remove this unused "examService" private field.(¿Îİ8í¤À¾Ú1

@@ -1,0 +1,20 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(«ê³8í‰ş¼Ú1
+‹
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(†¦ãÕ8¦•İ¿ù1
+N
+java:S1172"1Remove this unused method parameter "connection".(†¦ãÕ8Àø–¾Ú1
+L	java:S106%"+Replace this use of System.out by a logger.(íí—²şÿÿÿÿ8ñ‰ş¼Ú1
+_
+java:S1128"BRemove this unused import 'org.example.repository.ExamRepository'.(æ®©•8­•İ¿ù1
+c
+java:S1128"FRemove this unused import 'org.example.repository.QuestionRepository'.(õ÷­®8­•İ¿ù1
+g
+java:S1128"ERemove this unused import 'org.example.repository.TeacherRepository'.(Œ´¥Óıÿÿÿÿ8­•İ¿ù1
+Y
+java:S1128"<Remove this unused import 'org.example.service.ExamService'.(†æåÅ8­•İ¿ù1
+]
+java:S1128"@Remove this unused import 'org.example.service.QuestionService'.(Íäş8­•İ¿ù1
+a
+java:S1128"?Remove this unused import 'org.example.service.TeacherService'.(£¶ˆúÿÿÿÿ8­•İ¿ù1
